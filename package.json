@@ -1,0 +1,21 @@
+{
+  "name": "e-commerce_backend_project",
+  "version": "1.0.0",
+  "description": "Creating a backend for an e-commerce store using node, express and postgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "project",
+    "codecademy",
+    "aidan",
+    "lee"
+  ],
+  "author": "Aidan Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.3"
+  }
+}
